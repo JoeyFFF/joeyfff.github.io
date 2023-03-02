@@ -2323,16 +2323,6 @@ header.header {
   }
 }
 
-.footer-inner .vendors-list a:nth-child(2) img {
-  width: 43px;
-}
-
-@media (max-width: 767px) {
-  .footer-inner .vendors-list a:nth-child(2) img {
-    width: 33px;
-  }
-}
-
 .use-motion .footer {
   opacity: 0;
 }
